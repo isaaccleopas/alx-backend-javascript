@@ -1,0 +1,11 @@
+    "module": "es6",
+    "target": "es5",
+    "all{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+owJs": true,
+    "moduleResolution": "node"
+  }
+}
